@@ -10,4 +10,5 @@ This repository contains:
 
 
 Edward Sun, Yufang Hou, Dakuo Wang, Yunfeng Zhang, Nancy X.R. Wang. D2S: Document-to-Slide Generation Via Query-Based Text Summarization. In Proceedings of the 18th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2021), Online, 6 - 11 June 2021
+
 https://github.com/JHL328/test/assets/55661930/abe276f7-12d3-4d24-aff3-7474296e854e
